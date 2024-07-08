@@ -1,0 +1,1620 @@
+=== Neighboring positions of {0,0} ===
+Neighbor: {-1,0}
+No corresponding tile exists.
+Neighbor: {0,1}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {1,0}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {0,-1}
+No corresponding tile exists.
+=== Neighboring positions of {0,1} ===
+Neighbor: {-1,1}
+No corresponding tile exists.
+Neighbor: {0,2}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {1,1}
+Corresponding tile exists.
+Layout: ARBRE
+An arc exists between the box and its neighbor.
+Neighbor: {0,0}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {0,2} ===
+Neighbor: {-1,2}
+No corresponding tile exists.
+Neighbor: {0,3}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {1,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {0,1}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {0,3} ===
+Neighbor: {-1,3}
+No corresponding tile exists.
+Neighbor: {0,4}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {1,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {0,2}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {0,4} ===
+Neighbor: {-1,4}
+No corresponding tile exists.
+Neighbor: {0,5}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {1,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {0,3}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {0,5} ===
+Neighbor: {-1,5}
+No corresponding tile exists.
+Neighbor: {0,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {0,4}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {0,6} ===
+Neighbor: {-1,6}
+No corresponding tile exists.
+Neighbor: {0,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {0,5}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {0,7} ===
+Neighbor: {-1,7}
+No corresponding tile exists.
+Neighbor: {0,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {0,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {0,8} ===
+Neighbor: {-1,8}
+No corresponding tile exists.
+Neighbor: {0,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {0,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {0,9} ===
+Neighbor: {-1,9}
+No corresponding tile exists.
+Neighbor: {0,10}
+No corresponding tile exists.
+Neighbor: {1,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {0,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {1,0} ===
+Neighbor: {0,0}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {1,1}
+Corresponding tile exists.
+Layout: ARBRE
+An arc exists between the box and its neighbor.
+Neighbor: {2,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,-1}
+No corresponding tile exists.
+=== Neighboring positions of {1,1} ===
+Neighbor: {0,1}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {1,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,0}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {1,2} ===
+Neighbor: {0,2}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {1,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,1}
+Corresponding tile exists.
+Layout: ARBRE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {1,3} ===
+Neighbor: {0,3}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {1,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {1,4} ===
+Neighbor: {0,4}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {1,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {1,5} ===
+Neighbor: {0,5}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {1,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {1,6} ===
+Neighbor: {0,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {1,7} ===
+Neighbor: {0,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {1,8} ===
+Neighbor: {0,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {1,9} ===
+Neighbor: {0,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,10}
+No corresponding tile exists.
+Neighbor: {2,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {1,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {2,0} ===
+Neighbor: {1,0}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {2,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,-1}
+No corresponding tile exists.
+=== Neighboring positions of {2,1} ===
+Neighbor: {1,1}
+Corresponding tile exists.
+Layout: ARBRE
+An arc exists between the box and its neighbor.
+Neighbor: {2,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {2,2} ===
+Neighbor: {1,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {2,3} ===
+Neighbor: {1,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {2,4} ===
+Neighbor: {1,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {2,5} ===
+Neighbor: {1,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {2,6} ===
+Neighbor: {1,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {2,7} ===
+Neighbor: {1,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,7}
+Corresponding tile exists.
+Layout: PRODUCTEUR_AVOCAT
+An arc exists between the box and its neighbor.
+Neighbor: {2,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {2,8} ===
+Neighbor: {1,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {2,9} ===
+Neighbor: {1,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,10}
+No corresponding tile exists.
+Neighbor: {3,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {2,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {3,0} ===
+Neighbor: {2,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,-1}
+No corresponding tile exists.
+=== Neighboring positions of {3,1} ===
+Neighbor: {2,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {3,2} ===
+Neighbor: {2,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {3,3} ===
+Neighbor: {2,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {3,4} ===
+Neighbor: {2,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {3,5} ===
+Neighbor: {2,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {3,6} ===
+Neighbor: {2,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,7}
+Corresponding tile exists.
+Layout: PRODUCTEUR_AVOCAT
+An arc exists between the box and its neighbor.
+Neighbor: {4,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {3,7} ===
+Neighbor: {2,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {3,8} ===
+Neighbor: {2,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,7}
+Corresponding tile exists.
+Layout: PRODUCTEUR_AVOCAT
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {3,9} ===
+Neighbor: {2,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,10}
+No corresponding tile exists.
+Neighbor: {4,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {3,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {4,0} ===
+Neighbor: {3,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,-1}
+No corresponding tile exists.
+=== Neighboring positions of {4,1} ===
+Neighbor: {3,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {4,2} ===
+Neighbor: {3,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {4,3} ===
+Neighbor: {3,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {4,4} ===
+Neighbor: {3,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {4,5} ===
+Neighbor: {3,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {4,6} ===
+Neighbor: {3,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {4,7} ===
+Neighbor: {3,7}
+Corresponding tile exists.
+Layout: PRODUCTEUR_AVOCAT
+An arc exists between the box and its neighbor.
+Neighbor: {4,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {4,8} ===
+Neighbor: {3,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {4,9} ===
+Neighbor: {3,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,10}
+No corresponding tile exists.
+Neighbor: {5,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {4,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {5,0} ===
+Neighbor: {4,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,-1}
+No corresponding tile exists.
+=== Neighboring positions of {5,1} ===
+Neighbor: {4,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {5,2} ===
+Neighbor: {4,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {5,3} ===
+Neighbor: {4,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {5,4} ===
+Neighbor: {4,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {5,5} ===
+Neighbor: {4,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {5,6} ===
+Neighbor: {4,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {5,7} ===
+Neighbor: {4,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {5,8} ===
+Neighbor: {4,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {5,9} ===
+Neighbor: {4,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,10}
+No corresponding tile exists.
+Neighbor: {6,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {5,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {6,0} ===
+Neighbor: {5,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,-1}
+No corresponding tile exists.
+=== Neighboring positions of {6,1} ===
+Neighbor: {5,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {6,2} ===
+Neighbor: {5,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {6,3} ===
+Neighbor: {5,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {6,4} ===
+Neighbor: {5,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {6,5} ===
+Neighbor: {5,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {6,6} ===
+Neighbor: {5,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {6,7} ===
+Neighbor: {5,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {6,8} ===
+Neighbor: {5,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {6,9} ===
+Neighbor: {5,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,10}
+No corresponding tile exists.
+Neighbor: {7,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {6,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {7,0} ===
+Neighbor: {6,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,-1}
+No corresponding tile exists.
+=== Neighboring positions of {7,1} ===
+Neighbor: {6,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {7,2} ===
+Neighbor: {6,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,2}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {7,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {7,3} ===
+Neighbor: {6,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {7,4} ===
+Neighbor: {6,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {7,5} ===
+Neighbor: {6,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {7,6} ===
+Neighbor: {6,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {7,7} ===
+Neighbor: {6,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {7,8} ===
+Neighbor: {6,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {7,9} ===
+Neighbor: {6,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,10}
+No corresponding tile exists.
+Neighbor: {8,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {7,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {8,0} ===
+Neighbor: {7,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,-1}
+No corresponding tile exists.
+=== Neighboring positions of {8,1} ===
+Neighbor: {7,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,2}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {9,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {8,2} ===
+Neighbor: {7,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {8,3} ===
+Neighbor: {7,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,2}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {8,4} ===
+Neighbor: {7,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {8,5} ===
+Neighbor: {7,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {8,6} ===
+Neighbor: {7,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {8,7} ===
+Neighbor: {7,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {8,8} ===
+Neighbor: {7,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {8,9} ===
+Neighbor: {7,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,10}
+No corresponding tile exists.
+Neighbor: {9,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {8,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {9,0} ===
+Neighbor: {8,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {10,0}
+No corresponding tile exists.
+Neighbor: {9,-1}
+No corresponding tile exists.
+=== Neighboring positions of {9,1} ===
+Neighbor: {8,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {10,1}
+No corresponding tile exists.
+Neighbor: {9,0}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {9,2} ===
+Neighbor: {8,2}
+Corresponding tile exists.
+Layout: UNKNOWN
+An arc exists between the box and its neighbor.
+Neighbor: {9,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {10,2}
+No corresponding tile exists.
+Neighbor: {9,1}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {9,3} ===
+Neighbor: {8,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {10,3}
+No corresponding tile exists.
+Neighbor: {9,2}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {9,4} ===
+Neighbor: {8,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {10,4}
+No corresponding tile exists.
+Neighbor: {9,3}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {9,5} ===
+Neighbor: {8,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {10,5}
+No corresponding tile exists.
+Neighbor: {9,4}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {9,6} ===
+Neighbor: {8,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {10,6}
+No corresponding tile exists.
+Neighbor: {9,5}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {9,7} ===
+Neighbor: {8,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {10,7}
+No corresponding tile exists.
+Neighbor: {9,6}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {9,8} ===
+Neighbor: {8,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {10,8}
+No corresponding tile exists.
+Neighbor: {9,7}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+=== Neighboring positions of {9,9} ===
+Neighbor: {8,9}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
+Neighbor: {9,10}
+No corresponding tile exists.
+Neighbor: {10,9}
+No corresponding tile exists.
+Neighbor: {9,8}
+Corresponding tile exists.
+Layout: VIDE
+An arc exists between the box and its neighbor.
